@@ -1,0 +1,39 @@
+Test Plan:
+
+1. Planing the Testing to Sign-Off
+
+2. Test Plan : RC Summer2022
+
+Steps:
+======
+
+1. Aim: Short Description about What need to be Tested and what should not be Tested
+
+2. Test Approach : Manual or Automation
+
+3. Test Environment : Local QA environment, staging and Production
+
+4. Test Methodology : Methods that are used to test Functional & non Functional rquirements
+
+5. Roles and Responsibility : 
+
+1. Analysing the Requirment points,
+2. Preparing Test scenarios and Test cases
+3. Exceuting the Test cases
+4. updating the bugs in the BUg Tracking Tool (Redmine) ===> Bug Life cycle
+5. Retesting the Failed Test cases
+6. finally preparing test summary report
+
+
+6. Challenge & Risk Faced: Risk like 1.Tight Timeline, 2. Insufficient Resource, 3. undefined scope 4. Continous change in Requirment
+
+7. metication Plan : Process of developing options and Actions to enhanse opportunity and reduce Threads
+
+8. Test delivarable : Test case and Test execution status oriented document to stake holder or client
+
+9. Test Automation : Preparing & Execting Automation script (Optional)
+
+10. Effect estimation : It gives detailed about Time Taken, resource involved
+
+11. Entry and Exit criteria : Entry criteria must gives the Prerequisite condition must be completed before starting the Testing
+Exit criteria : It defines the Item that must be completed before Testing can be concluded
